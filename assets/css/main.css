@@ -453,6 +453,7 @@ button,
   text-decoration: none;
   white-space: nowrap;
 }
+
 input[type="submit"].small,
 input[type="reset"].small,
 input[type="button"].small,
