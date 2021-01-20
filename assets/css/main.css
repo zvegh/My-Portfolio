@@ -129,6 +129,14 @@ video {
   vertical-align: baseline;
 }
 
+.inner {
+  color: white;
+}
+
+.footer-p {
+  display: inline-block;
+}
+
 article,
 aside,
 details,
